@@ -241,3 +241,9 @@ Thanks for visiting ❤️
 <p align="center">
 Happy Coding 🚀
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyushGiri2508/AyushGiri2508/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
